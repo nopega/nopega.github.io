@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nopega/nopega.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-<p>ส่งงานอาจารย์แมน <a href="https://nopega.github.io/../../1.html"><em>link</em></a></p>
+<p>ส่งงานอาจารย์แมน hw13 <a href="https://nopega.github.io/../../1.html"><em>link</em></a></p>
+<p>ส่งงานอาจารย์แมน hw14 <a href="https://nopega.github.io/../../page1_signin.html"><em>link</em></a></p>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
