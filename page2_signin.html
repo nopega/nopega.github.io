@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <script src="signin.js"></script>
+        <body>
+                <h1>Your information</h1>
+                <span id="yourusername"></span>
+                <p></p>
+                <span id="yourpassword"></span>
+                <script>
+                    document.getElementById("yourusername").innerHTML="Your username is : "+ localStorage.getItem("youruser");
+                    document.getElementById("yourpassword").innerHTML="Your password is : "+ localStorage.getItem("yourpass");
+                </script>
+        </body>
+    </head>
+</html>
